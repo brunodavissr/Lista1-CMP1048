@@ -55,7 +55,3 @@ class Reserva_Voo {
 				return false;
 		}
 };
-
-int main(void) {
-	
-}
